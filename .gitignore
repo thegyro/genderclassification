@@ -1,0 +1,4 @@
+**/*.pyc
+data_and_guides/**
+lfw/**
+!lfw/readme.md
